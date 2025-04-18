@@ -5,7 +5,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40"/><img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="40"/>
 
 ## Основные цели 
-  Имелись  данные представленные результатами выполнения A/В теста в ходе проверки гипотезы. Целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика.
+  Имелись  данные представленные результатами выполнения A/В теста в ходе проверки гипотезы. Целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика.<br>
   Целью работы было выполнение анализа  данных с целью определения эффективности изменений и возможности их распространения на всех пользователей.
   #### Этапы работы:
 1. Загрузка данных и их первичный анализ.
